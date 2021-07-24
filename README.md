@@ -13,5 +13,5 @@ A simple C++ Program in which user can search for roomate and look for accommoda
 ![UML The Final-1](https://user-images.githubusercontent.com/76180062/126879586-f30104bb-943b-4672-95fe-599dc4952664.jpg)
 
 
-##Acknowledgments
+## Acknowledgments
 This a simple project was bulit using C++ and it was for for Programming Technique II Course.
